@@ -1,0 +1,12 @@
+{
+  "name": "whatabot-realtime-client",
+  "version": "1.0.0",
+  "description": "A Node.js client for Whatabot's realtime API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "latest"
+  }
+}
